@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
  <link rel="stylesheet" type="text/css" href="bootstrap.css">
-<title>GEA Home Page </title>
+<title>GEA Home Page</title>
 <style>
 ul {
     list-style-type: none;
